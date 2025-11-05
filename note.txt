@@ -1,0 +1,2 @@
+la fonction native input permet de demander de marquer un truc
+en python quand on fait un if on termine ar un exit.
